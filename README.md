@@ -294,3 +294,4 @@ OpenTo: "Software Engineering Internships, AI/ML Roles, and Open Source Collabor
   <p>✨ <i>Striving to build software that is not only functional, but a work of engineering art.</i> ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=120&section=footer&theme=dark" />
 </div>
+
