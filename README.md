@@ -14,7 +14,18 @@
   <img src="https://img.shields.io/badge/Location-Dehradun,%20India-blueviolet?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Yuvraj88818" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7000ff?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yuvraj-pratap-singh-693346288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pratapsinghyuvraj2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Yuvraj88818" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=Yuvraj88818&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yuvraj88818?style=flat-square&color=8a2be2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Yuvraj88818?style=flat-square&color=8a2be2" alt="Stars" />
+</p>
 
 ---
 
@@ -151,7 +162,7 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Full-Stack & AI Developer
 **Freelance & Open Source Projects** | *August 2023 — Present*
@@ -177,11 +188,37 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 
 ---
 
+## 📜 Certifications
+
+### AWS
+- <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+- <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Prep-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+### Oracle
+- <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Programming-F80000?style=flat-square&logo=oracle&logoColor=white" />
+
+### NPTEL
+- <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20and%20Algorithms-003366?style=flat-square&logo=education&logoColor=white" />
+
+### Cisco
+- <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1EBEA5?style=flat-square&logo=cisco&logoColor=white" />
+
+---
+
 ## 💻 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/74TTSKAaJd/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/Yuvraj88818" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </div>
 
@@ -199,10 +236,18 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.herokuapp.com/?username=Yuvraj88818&theme=dracula&no-background=true&no-border=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj88818&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj88818&bg_color=1E1B4B&color=a970ff&line=8a2be2&point=c77dff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
