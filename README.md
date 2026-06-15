@@ -202,7 +202,7 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj88818&bg_color=1E1B4B&color=a970ff&line=8a2be2&point=c77dff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj88818&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ---
