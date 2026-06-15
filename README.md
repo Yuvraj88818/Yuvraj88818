@@ -193,16 +193,8 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj88818&layout=compact&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Top Languages" />
 </div>
-
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj88818&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&v=2" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
