@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=250&section=header&text=Yuvraj%20Pratap%20Singh&fontSize=65&fontAlignY=38&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=250&section=header&text=Yuvraj%20Pratap%20Singh&fontSize=65&fontAlignY=38&theme=dark" />
 </p>
 
 <p align="center">
@@ -193,7 +193,8 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 <div align="center">
   <a href="https://leetcode.com/u/Yuvraj88818/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
- 
+  </a>
+</div>
 
 ---
 
@@ -202,7 +203,7 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj88818&show_icons=true&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Yuvraj's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj88818&theme=tokyonight&background=0f0f23&title=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=e0aaff&dates=a970ff&ring=8a2be2&fire=a970ff" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj88818&theme=tokyonight&background=1E1B4B&title=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=e0aaff&dates=a970ff&ring=8a2be2&fire=a970ff" alt="GitHub Streak Stats" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj88818&layout=compact&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Top Languages" />
 </div>
@@ -212,7 +213,7 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj88818&bg_color=0f0f23&color=a970ff&line=8a2be2&point=c77dff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj88818&bg_color=1E1B4B&color=a970ff&line=8a2be2&point=c77dff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -257,5 +258,5 @@ OpenTo: "Software Engineering Internships, AI/ML Roles, and Open Source Collabor
 
 <div align="center">
   <p>✨ <i>Striving to build software that is not only functional, but a work of engineering art.</i> ✨</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=120&section=footer&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=120&section=footer&theme=dark" />
 </div>
