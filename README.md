@@ -188,39 +188,12 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 
 ---
 
-## 📜 Certifications
-
-### AWS
-- <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-- <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Prep-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-
-### Oracle
-- <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Programming-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
-### NPTEL
-- <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20and%20Algorithms-003366?style=flat-square&logo=education&logoColor=white" />
-
-### Cisco
-- <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1EBEA5?style=flat-square&logo=cisco&logoColor=white" />
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/Yuvraj88818/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/Yuvraj88818" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-</div>
+ 
 
 ---
 
@@ -232,14 +205,6 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj88818&theme=tokyonight&background=0f0f23&title=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=e0aaff&dates=a970ff&ring=8a2be2&fire=a970ff" alt="GitHub Streak Stats" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj88818&layout=compact&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=Yuvraj88818&theme=dracula&no-background=true&no-border=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
