@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=250&section=header&text=Yuvraj%20Pratap%20Singh&fontSize=65&fontAlignY=38&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=250&section=header&text=Yuvraj%20Pratap%20Singh&fontSize=65&fontAlignY=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -292,6 +292,6 @@ OpenTo: "Software Engineering Internships, AI/ML Roles, and Open Source Collabor
 
 <div align="center">
   <p>✨ <i>Striving to build software that is not only functional, but a work of engineering art.</i> ✨</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=120&section=footer&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=120&section=footer" />
 </div>
 
