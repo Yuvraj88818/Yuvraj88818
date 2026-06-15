@@ -189,7 +189,7 @@ I have a deep passion for writing clean, efficient, and maintainable code, backe
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj88818&show_icons=true&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Yuvraj's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj88818&theme=tokyonight&background=1E1B4B&title=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=e0aaff&dates=a970ff&ring=8a2be2&fire=a970ff" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Yuvraj88818&theme=tokyonight&background=1E1B4B&title=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=e0aaff&dates=a970ff&ring=8a2be2&fire=a970ff" alt="GitHub Streak Stats" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj88818&layout=compact&theme=transparent&title_color=a970ff&icon_color=8a2be2&text_color=c9d1d9&border_color=3c096c" alt="Top Languages" />
 </div>
